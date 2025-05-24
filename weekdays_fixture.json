@@ -1,0 +1,51 @@
+[
+{
+    "model": "habits_tracker.day",
+    "pk": 1,
+    "fields": {
+        "day": "Понедельник"
+    }
+},
+{
+    "model": "habits_tracker.day",
+    "pk": 2,
+    "fields": {
+        "day": "Вторник"
+    }
+},
+{
+    "model": "habits_tracker.day",
+    "pk": 3,
+    "fields": {
+        "day": "Среда"
+    }
+},
+{
+    "model": "habits_tracker.day",
+    "pk": 4,
+    "fields": {
+        "day": "Четверг"
+    }
+},
+{
+    "model": "habits_tracker.day",
+    "pk": 5,
+    "fields": {
+        "day": "Пятница"
+    }
+},
+{
+    "model": "habits_tracker.day",
+    "pk": 6,
+    "fields": {
+        "day": "Суббота"
+    }
+},
+{
+    "model": "habits_tracker.day",
+    "pk": 7,
+    "fields": {
+        "day": "Воскресенье"
+    }
+}
+]
